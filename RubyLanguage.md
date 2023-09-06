@@ -33,4 +33,9 @@ puts listb.sort { |a, b| b-a }.inspect
 
 puts.listb.reverse.inspect  
 
+**08. Checking the List empty or not** 
+
+puts listb.empty?  
+
+
 
