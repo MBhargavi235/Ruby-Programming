@@ -30,6 +30,7 @@ puts listb.length
 puts listb.sort { |a, b| b-a }.inspect   
 
 **07. Reversing of an Array**  
+
 puts.listb.reverse.inspect  
 
 
